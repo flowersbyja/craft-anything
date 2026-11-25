@@ -16,3 +16,6 @@ corpus/
 *.pfx
 *.key
 .claude/settings.local.json
+
+# LTX-2.5 model files (too big for GitHub)
+tools/ltx/models/
